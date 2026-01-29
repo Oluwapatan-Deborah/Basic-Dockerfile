@@ -16,6 +16,8 @@ This project demonstrates:
 
 # Clone the repo
 git clone https://github.com/Oluwapatan-Deborah/Basic-Dockerfile.git
+
+# Enter project path
 cd Basic-Dockerfile
 
 # Build the image
