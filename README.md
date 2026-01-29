@@ -1,6 +1,3 @@
-# Project URL
-git clone https://github.com/Oluwapatan-Deborah/Basic-Dockerfile
-
 # Basic-Dockerfile 👋
 
 A simple Docker project that prints a personalized greeting when the container runs.
@@ -30,6 +27,8 @@ docker rum --rm image
 # Output 
 Hello, Captain!
 
+# Project URL
+https://roadmap.sh/projects/basic-dockerfile
 
 
 Note the --rm automatically removes your container after it exits
