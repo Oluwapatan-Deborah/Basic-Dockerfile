@@ -31,4 +31,4 @@ Hello, Captain!
 git clone https://github.com/Oluwapatan-Deborah/Basic-Dockerfile.git
 
 
-<!-- Note the --rm automatically removes your container after it exits -->
+Note the --rm automatically removes your container after it exits
