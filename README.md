@@ -14,6 +14,10 @@ This project demonstrates:
 - The script prints a greeting using a name passed via an environment variable
 - If no name is provided, it defaults to **Captain**
 
+# Clone the repo
+git clone https://github.com/Oluwapatan-Deborah/Basic-Dockerfile.git
+cd Basic-Dockerfile
+
 # Build the image
 docker build -t image .
 
