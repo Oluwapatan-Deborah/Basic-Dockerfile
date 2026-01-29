@@ -28,7 +28,7 @@ docker rum --rm image
 Hello, Captain!
 
 # Project URL
-git clone https://github.com/Oluwapatan-Deborah/Basic-Dockerfile.git
+git clone https://github.com/Oluwapatan-Deborah/Basic-Dockerfile
 
 
 Note the --rm automatically removes your container after it exits
